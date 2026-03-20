@@ -1,6 +1,6 @@
  <br />
 <p align="center">
-  <a href="https://qxresearch.github.io/qxresearch-event-1">
+  <a href="https://github.com/Lemijala/qxresearch-event-lemi">
     <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/10lines3.gif" alt="Logo">
   </a>
 
@@ -41,24 +41,24 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 
 ### Python Application
 
-* 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
-* 🔑 [Password Protect PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protect a pdf with custom password 
-* 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
-* 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
-* 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
-* 📟 [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator) : Random secured password generator app
-* 🎶 [Extract mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
-* 🔗 [Link Shortener and Extractor](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener%20and%20Extractor) : URL shortener and Extractor from terminal
-* 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
-* 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
-* 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook) : Audiobook creator from text file 
-* ⏰ [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm) : Friendly alarm for programmers to take a break
+* 📼 [Voice Recorder](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
+* 🔑 [Password Protect PDF](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Password%20Protech%20PDF) : Protect a pdf with custom password 
+* 🗏 [Merge Multiple PDF](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Merge%20Multiple%20PDF) : Merge multiple pdfs with python scripting
+* 🔔 [Windows Notification](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Windows%20Notification) : Custom windows notification maker
+* 🎬 [Audio Visualization Tool](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Audio%20Visualization%20Tool) : Awesome audio visualization tool! 
+* 📟 [Random Password Generator](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Random%20Password%20Generator) : Random secured password generator app
+* 🎶 [Extract mp3 from mp4](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Extract%20mp3%20from%20mp4) : Extract audio from video with parsing
+* 🔗 [Link Shortener and Extractor](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Link%20Shortener%20and%20Extractor) : URL shortener and Extractor from terminal
+* 🔋 [Terminal Tricks](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Terminal%20Tricks) : Cool terminal tricks #scripting
+* 🎂 [Birthday Reminder](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Birthday%20Reminder) : Birthday reminder for lazy coders
+* 📻 [Audiobook](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/audiobook) : Audiobook creator from text file 
+* ⏰ [Alarm](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Alarm) : Friendly alarm for programmers to take a break
 * ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py) : Python script will play a youtube video at scheduled time
-* 📆 [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
-* ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
-* 💻 [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot) : A tkinter based screenshot app with clickable button
-* 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine) : Wekipedia API integrated tkinter based search engine
-* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/CSPRNG) : Building a CSRNG from scratch
+* 📆 [Calendar](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Calendar) : A tkinter(GUI toolkit) based calendar app 
+* ✏️ [Paint](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
+* 💻 [Screenshot taker](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/ScreenShot) : A tkinter based screenshot app with clickable button
+* 📖 [Wikipedia Search Engine](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/Search%20Engine) : Wekipedia API integrated tkinter based search engine
+* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/Lemijala/qxresearch-event-lemi/tree/master/Applications/CSPRNG) : Building a CSRNG from scratch
 
 
 
@@ -101,11 +101,11 @@ Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the depende
 
 Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 
-1. [**Fork**](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
+1. [**Fork**](https://github.com/Lemijala/qxresearch-event-lemi/fork) the Project
 2. Create your Feature Branch
 3. Commit your Changes
 4. Push to the Branch
-5. Open a [**Pull Request**](https://github.com/qxresearch/qxresearch-event-1/pulls)
+5. Open a [**Pull Request**](https://github.com/Lemijala/qxresearch-event-lemi/pulls)
 
 
 <br>
